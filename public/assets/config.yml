@@ -32,7 +32,7 @@ colors:
     card-shadow: rgba(0, 0, 0, 0.1)
     link: "#3273dc"
     link-hover: "#363636"
-    background-image: "https://cftu.8937.indevs.in/api/cfile/AgACAgEAAyEGAATnb47SAAMXaYj315EzAb8sZqoIXMWQ2DLU1HgAAgkMaxvPkklE0B4SSvaOO5sBAAMCAAN3AAM6BA"
+    background-image: ""
   dark:
     highlight-primary: "#3367d6"
     highlight-secondary: "#4285f4"
@@ -46,7 +46,7 @@ colors:
     card-shadow: rgba(0, 0, 0, 0.4)
     link: "#3273dc"
     link-hover: "#ffdd57"
-    background-image: "https://cftu.8937.indevs.in/api/cfile/AgACAgEAAyEGAATnb47SAAMXaYj315EzAb8sZqoIXMWQ2DLU1HgAAgkMaxvPkklE0B4SSvaOO5sBAAMCAAN3AAM6BA"
+    background-image: "https://youke.xn--y7xa690gmna.cn/s1/2026/02/09/6988fe35cff61.webp"
 
 # Services
 services:
