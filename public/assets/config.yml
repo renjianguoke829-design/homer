@@ -7,7 +7,7 @@ subtitle: "Welcome to your new dashboard!"
 logo: "logo.png"
 # icon: "fas fa-skull-crossbones" # Optional icon
 
-# 引用自定义样式，用于修复背景图滚动问题
+# 引用自定义样式，用于修复背景图滚动问题和增加毛玻璃效果
 stylesheet: "assets/custom.css"
 
 header: true
@@ -32,7 +32,8 @@ colors:
     card-shadow: rgba(0, 0, 0, 0.1)
     link: "#3273dc"
     link-hover: "#363636"
-    background-image: ""
+    # 新的背景图片链接
+    background-image: "https://youke.xn--y7xa690gmna.cn/s1/2026/02/09/6988fe35cff61.webp"
   dark:
     highlight-primary: "#3367d6"
     highlight-secondary: "#4285f4"
@@ -46,6 +47,7 @@ colors:
     card-shadow: rgba(0, 0, 0, 0.4)
     link: "#3273dc"
     link-hover: "#ffdd57"
+    # 新的背景图片链接（暗色模式也用这张）
     background-image: "https://youke.xn--y7xa690gmna.cn/s1/2026/02/09/6988fe35cff61.webp"
 
 # Services
