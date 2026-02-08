@@ -29,7 +29,7 @@ colors:
     card-shadow: rgba(0, 0, 0, 0.1)
     link: "#3273dc"
     link-hover: "#363636"
-    background-image: ""
+    background-image: "https://cftu.8937.indevs.in/api/cfile/AgACAgEAAyEGAATnb47SAAMXaYj315EzAb8sZqoIXMWQ2DLU1HgAAgkMaxvPkklE0B4SSvaOO5sBAAMCAAN3AAM6BA"
   dark:
     highlight-primary: "#3367d6"
     highlight-secondary: "#4285f4"
