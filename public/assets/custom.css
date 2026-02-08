@@ -1,0 +1,23 @@
+body {
+    /* 让背景图铺满屏幕，不留黑边 */
+    background-size: cover;
+    /* 让背景图固定住，不随页面滚动 */
+    background-attachment: fixed;
+    /* 图片居中显示 */
+    background-position: center center;
+    /* 禁止图片重复平铺 */
+    background-repeat: no-repeat;
+}
+
+/* 可选：如果你觉得文字看不清，可以给卡片加个半透明白色底 */
+.card {
+    background-color: rgba(255, 255, 255, 0.8) !important;
+    backdrop-filter: blur(5px); /* 磨砂玻璃效果 */
+}
+
+/* 暗色模式下的卡片微调 */
+@media (prefers-color-scheme: dark) {
+    .card {
+        background-color: rgba(30, 30, 30, 0.7) !important;
+    }
+}
